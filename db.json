@@ -1,0 +1,30 @@
+{
+  "profiles": [
+    {
+      "id": "donor-1",
+      "full_name": "Demo Donor",
+      "role": "DONOR",
+      "organization_name": "Community Kitchen",
+      "points": 100,
+      "lifetime_deliveries": 0
+    },
+    {
+      "id": "ngo-1",
+      "full_name": "Demo NGO",
+      "role": "NGO",
+      "organization_name": "Food Bank Central",
+      "points": 0,
+      "lifetime_deliveries": 0
+    },
+    {
+      "id": "volunteer-1",
+      "full_name": "Demo Volunteer",
+      "role": "VOLUNTEER",
+      "points": 0,
+      "lifetime_deliveries": 0
+    }
+  ],
+  "donations": [],
+  "claims": [],
+  "tasks": []
+}
